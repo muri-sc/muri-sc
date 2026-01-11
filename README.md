@@ -2,7 +2,7 @@
 
 **`Estudante da área de programação`**
 
-Atualmente focado em aprender desenvolvimento backend, busco desenvolver projetos práticos e aprimorar minhas habilidades na área
+Atualmente focado em aprender desenvolvimento backend, busco desenvolver projetos práticos e aprimorar minhas habilidades na área.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/18murillo-ferreira)
 
