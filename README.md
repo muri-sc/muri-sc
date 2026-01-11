@@ -1,11 +1,12 @@
 # 🧑🏻‍💻 Olá, sou Murillo Ferreira
+
 **`Estudante da área de programação`**
 
 Atualmente focado em aprender desenvolvimento backend, busco desenvolver projetos práticos e aprimorar minhas habilidades na área
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/18ferreira-murillo)
 
-## 🛠 Linguagens e Ferramentas
+## 🧩 Linguagens e Ferramentas
 
 <img align="left" alt="HTML5" width=36px src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS3" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
