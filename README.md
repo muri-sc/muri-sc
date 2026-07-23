@@ -1,4 +1,4 @@
-# 🧑🏻‍💻 Olá, sou Murillo Ferreira
+# Olá, sou Murillo Ferreira
 
 **`Estudante da área de programação`**
 
